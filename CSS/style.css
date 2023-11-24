@@ -1,0 +1,41 @@
+h1{
+    font-family: 'vina sans';
+}
+
+.selectors{
+    color: black;
+    text-align: center;
+    border:solid (7,7,7);
+}
+
+p{
+    text-align: center;
+    size: 20px;
+}
+
+img{
+    width: 100%;
+    border: solid (195,9,179) 1px;
+    padding: 0,5p;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h3{
+    background-color: rgba(130, 97, 187, 0.529)
+}
+
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-image: url(../recursos/FONDOLILA.png);
+}
+
+h2{
+    font-family: 'italic';
+}
+
+.selector{
+    text-align: center;
+    padding: 100px;
+}
